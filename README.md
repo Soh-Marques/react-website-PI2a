@@ -1,1 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install for run
+npm install react-router-dom@5.2.0
+
+start project
+npm start
